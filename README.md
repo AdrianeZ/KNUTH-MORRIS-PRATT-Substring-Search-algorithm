@@ -1,0 +1,1 @@
+# KNUTH-MORRIS-PRATT-Substring-Search-algorithm
